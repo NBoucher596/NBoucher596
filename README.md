@@ -1,6 +1,6 @@
 # Hi, I'm Noah Boucher. <br>
 - I am a student at Old Dominion University in the Game Development and Criticism Major and will graduate in December of 2024. I recieved my Associate Degree in Computer Science at TCC in May 2023. <br>
-- I have the most experience with Unity, but have done some small, mostly edificaitonal projects in Unreal. I know C++, Java, and C# and have 2, 3, and 4 years of experience respectively. <br>
+- I have the most experience with Unity, but have done some small, mostly edificaitonal projects in Unreal. I know C++, Java, and C# and have 4, 3, and 2 years of experience respectively. <br>
 - I have experience working on top-down, VR, first and third person games from internships, class assignments, and projects amde with my friends for experience with differnt types of game creation. <br>
 - In my free time, I volunteer to assist the Virginia Four Wheel Drive Association's Fall Run and the American Cancer Society's Relay for Life Four Wheel Drive Event, typically held in the spring. Both of these events are private guided rides at Oak Ridge Estate.
 In total, I have donated over 550 hours of my time since 2016 to repair trails, be a trail guide, and complete owner requested projects around the property. <br>
