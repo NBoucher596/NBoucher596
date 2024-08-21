@@ -1,5 +1,5 @@
 ## Hi, I'm Noah Boucher. <br>
-I am a student at Old Dominion University in the Game Development and Criticism Major and will graduate in December of 2024. I recieved my Associate Degree in Computer Science at TCC in May 2023. I just finished an internship at the Virgnia Modeling, Analysis, and Simulation Center (VMASC). <br>
+I am a student at Old Dominion University in the Game Development and Criticism Major and will graduate in December of 2024 and I just finished an internship at the Virgnia Modeling, Analysis, and Simulation Center (VMASC)! I recieved my Associate Degree in Computer Science at Tidewater Community College (TCC) in May 2023.  <br>
 If I'm not doing schoolwork, I am either playing online with friends from high school, expanding my knowledge of 20th and 21st century history, or working on whatever interest I have at the moment. <br>
 
 ### Experience
