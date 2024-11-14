@@ -1,0 +1,6 @@
+## Thomas Jefferson National Accelerator Facility (Jefferson Lab)
+I worked with the RF Engineering group at Jefferson Lab and worked on a few project for them. Some of the projects I worked on are in the Accelerator now! I was one of the 6  selected students from the Tidewater Area to participate in the high school internship. The projects I worked on dealt mostly with circuits, but there was one that focused on computer programming.
+### Ladybug senor project
+The coding project I worked on was combing the readings from a Ladybug RF sensor to an external display to measure RF around the campus. The previous method required plugging the Ladybug sensor into a laptop and pushing it around on a cart. I was unfamiliar with the languiage the display screen used, but quickly realized it was a maufactuer coding language, likely based off of C. I was able to find a single forum post on the company's forum and was able to start to make progress. I used that forum post to make some headway by converting the voltage reading capability and converting to RF. While not a perfect solution, I was able to make something that was close to complete, but the internship ended before I was able to fully finish the project. <br>
+![Ladybug sensor and display screen](<Images/Final Labybug and Display.PNG>) <br>
+Above is a picture of the sensor and the accompanying display screen.
