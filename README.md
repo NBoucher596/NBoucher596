@@ -5,9 +5,12 @@ If I'm not doing schoolwork, I am either playing online with friends from high s
 ### Experience
 - I have the most experience with Unity, but have done some small, mostly edificaitonal projects in Unreal. I know C++, Java, and C# and have 4, 3, and 2 years of experience respectively. <br>
 - I have experience working on top-down, VR, first, and third person games from internships, class assignments, and projects made with my friends. <br>
-- In the summer of 2019, I was one of 6 high school interns in the Tidewater area to be selected for a summer internship at Thomas Jefferson National Accelerator Facility in Newport News, Virginia, and was a part of the RF Engineering department. I worked on various projects asissting my mentor and the other employees of the RF Engineering Department with some of the projects now being a part of the particle accelerator's data collection. <br>
-- In the summer of 2024, I was invited to be an intern/research assistant at the Virginia Modeling, Analytics, and Simulation Center. I worked on various projects the largest of which being IncredibleBulkVR: a VR game to get middle school and high school students interested in shipbuilding trades. I also worked on other various research projects in order to set up proposals for new projects and attend outreach events to use IncredibleBulkVR to get students interested in Shipbuilding trades.
-
+### Projects Worked
+- Monarch Odyssey <br>
+- Awesome Possum <br>
+- VMASC <br>
+- The Last Tank <br>
+- Jefferson Lab <br>
 ### Personal Acheivements
 - I achieved my Eagle Scout rank in December of 2016 when I was in Boy Scouts of America, and my project was to install chain link fences totaling over 700 linear feet to complete the enclosure of the play field at Saint Matthew's Catholic School in Virginia Beach, Virginia.
 I raised over $5000 to pay for materials and lead over 40 volunteers over two weekends to install the new fence. Sunbelt Rentals on Executive Blvd. in Chesapeake, Virginia donated over $400 in equipment rentals, 
