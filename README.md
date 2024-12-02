@@ -10,7 +10,7 @@ If I'm not doing schoolwork, I am either playing online with friends from high s
 ### Experience
 - I have the most experience with Unity, but have done some small, mostly edificaitonal projects in Unreal. I know C++, Java, and C#. <br>
 - I have experience working on top-down, VR, first, and third person games from internships, class assignments, and projects made with my friends. <br>
-### Projects Worked
+### Projects Worked (Click on Blue Link to access page)
 - [Monarch Odyssey](Monarch_Odyssey.md) <br>
 - [Awesome Possum](Awesome_Possum.md) <br>
 - [VMASC](VMASC.md) <br>
