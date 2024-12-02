@@ -18,7 +18,7 @@ If I'm not doing schoolwork, I am either playing online with friends from high s
 - [Jefferson Lab](Jefferson-Lab.md) <br>
 ### Personal Acheivements
 - I achieved my Eagle Scout rank in December of 2016 when I was in Boy Scouts of America, and my project was to install chain link fences totaling over 700 linear feet to complete the enclosure of the play field at Saint Matthew's Catholic School in Virginia Beach, Virginia.
-I raised over $5000 to pay for materials and lead over 40 volunteers over two weekends to install the new fence. Sunbelt Rentals on Executive Blvd. in Chesapeake, Virginia donated over $400 in equipment rentals, 
+I raised over $5000 to pay for materials and led over 40 volunteers over two weekends to install the new fence. Sunbelt Rentals on Executive Blvd. in Chesapeake, Virginia donated over $400 in equipment rentals, 
 Lowe's on North Battlefield Blvd. in Chesapeake assisted in purchasing the concrete for the posts,
 and Hercules Fence in Norfolk, Virginia assisted me with the purchase of the fence materials and helpful additional information on how to install a chain link fence from their own experiences. <br>
 - I volunteer to assist the Virginia Four Wheel Drive Association's Fall Run, held in September and the American Cancer Society's Relay for Life Four Wheel Drive Event, held in April. Both of these events are private guided rides at Oak Ridge Estate and I have donated over 550 hours of my time since 2016 to repair trails, be a trail guide, and complete owner requested projects around the property. <br>
