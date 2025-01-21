@@ -1,5 +1,5 @@
 ## Hi, I'm Noah Boucher. <br>
-I am a student at Old Dominion University in the Game Development and Criticism Major and will graduate in December of 2024 and I just finished an internship at the Virgnia Modeling, Analysis, and Simulation Center (VMASC)! I recieved my Associate Degree in Computer Science at Tidewater Community College (TCC) in May 2023.  <br>
+I am currently searching for my perfect job in programming with C++, C#, or Java. I recently finished my Bachelor's Degree in Game Development and Criticism from Old Dominion University in December 2024! I recieved my Associate Degree in Computer Science at Tidewater Community College (TCC) in May 2023.  <br>
 If I'm not doing schoolwork, I am either playing online with friends from high school, expanding my knowledge of 20th and 21st century history, or working on whatever interest I have at the moment. <br>
 ### My Educational Story
 &nbsp; &nbsp; &nbsp; &nbsp;In my undergraduate learning of programming concepts and game development, I have learned valuable skills that will be useful for my career. These influential skills have helped me realize that I am ready for a career and will be successful in the job I get after graduation. The main influential skills I learned were the ability to make AI scripts, the ability to quickly grasp complicated topics, and the ability to adapt to new game engines. <br>
